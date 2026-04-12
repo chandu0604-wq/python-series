@@ -6,7 +6,7 @@
 #     print("C-search: ")
 #     print("D-display: ")
     
-#     user=input("Enter the choice: ")
+#     user=input("Enter the choice: ") 
     
 #     if user=="A":
 #         name=input("Enter the student name: ")

@@ -1,7 +1,7 @@
 # student={}
 
 # while True:
-#     print("A-Enter student: ")
+#     print("A-Enter student: ") 
 #     print("B-Enter update: ")
 #     print("C-search: ")
 #     print("D-display: ")
